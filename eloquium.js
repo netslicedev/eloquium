@@ -5,7 +5,7 @@ function init() {
 	$(".navexpanded-gMomd6").hide();
   $(".navexpanded-jAr54o").hide();  
 	$(".loader-C61RwL").fadeOut();
-	alert();
+	
 }
 
 // --------------   Initial End   --------------- //
